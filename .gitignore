@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+*.log
+.DS_Store
+.git/
+.giteegit/
+.githubgit/
+/.githubgit/
+logs/
